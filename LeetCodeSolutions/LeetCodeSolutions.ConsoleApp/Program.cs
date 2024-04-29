@@ -9,3 +9,9 @@ BestTimeToBuyStocks.Run();
 BestTimeToBuyStocks2.Run();
 
 RotateArray.Run();
+
+MajorityElement.Run();
+
+RemoveDuplicates.Run();
+
+RemoveElement.Run();
