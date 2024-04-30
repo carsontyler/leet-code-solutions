@@ -15,3 +15,5 @@ MajorityElement.Run();
 RemoveDuplicates.Run();
 
 RemoveElement.Run();
+
+HIndex.Run();
