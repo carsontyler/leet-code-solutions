@@ -19,3 +19,5 @@ RemoveElement.Run();
 HIndex.Run();
 
 RandomizedSet.Run();
+
+ProductExceptSelf.Run();
