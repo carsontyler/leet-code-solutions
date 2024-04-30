@@ -17,3 +17,5 @@ RemoveDuplicates.Run();
 RemoveElement.Run();
 
 HIndex.Run();
+
+RandomizedSet.Run();
