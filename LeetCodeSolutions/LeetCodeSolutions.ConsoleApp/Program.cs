@@ -23,3 +23,7 @@ RandomizedSet.Run();
 ProductExceptSelf.Run();
 
 GasStationCircuit.Run();
+
+CandyDistribution.Run();
+
+TrappingRainWater.Run();
