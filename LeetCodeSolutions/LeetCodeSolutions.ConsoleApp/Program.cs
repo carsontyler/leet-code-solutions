@@ -21,3 +21,5 @@ HIndex.Run();
 RandomizedSet.Run();
 
 ProductExceptSelf.Run();
+
+GasStationCircuit.Run();
