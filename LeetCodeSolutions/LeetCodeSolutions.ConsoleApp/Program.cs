@@ -33,3 +33,5 @@ RomanToInteger.Run();
 PositiveNegetiveInteger.Run();
 
 IntegerToRoman.Run();
+
+CompareVersionNumbers.Run();
