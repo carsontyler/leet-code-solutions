@@ -35,3 +35,5 @@ PositiveNegetiveInteger.Run();
 IntegerToRoman.Run();
 
 CompareVersionNumbers.Run();
+
+BoatsToSavePeople.Run();
