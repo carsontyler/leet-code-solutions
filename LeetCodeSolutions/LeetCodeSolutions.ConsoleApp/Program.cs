@@ -37,3 +37,5 @@ IntegerToRoman.Run();
 CompareVersionNumbers.Run();
 
 BoatsToSavePeople.Run();
+
+LinkedListDeleteNode.Run();
