@@ -41,3 +41,5 @@ BoatsToSavePeople.Run();
 LinkedListDeleteNode.Run();
 
 RemoveGreaterNodeLinkedList.Run();
+
+Palindrome.Run();
