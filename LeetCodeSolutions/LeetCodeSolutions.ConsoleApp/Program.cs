@@ -39,3 +39,5 @@ CompareVersionNumbers.Run();
 BoatsToSavePeople.Run();
 
 LinkedListDeleteNode.Run();
+
+RemoveGreaterNodeLinkedList.Run();
