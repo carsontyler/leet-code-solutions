@@ -43,3 +43,5 @@ LinkedListDeleteNode.Run();
 RemoveGreaterNodeLinkedList.Run();
 
 Palindrome.Run();
+
+DoubleNumberLinkedList.Run();
