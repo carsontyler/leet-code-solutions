@@ -45,3 +45,5 @@ RemoveGreaterNodeLinkedList.Run();
 Palindrome.Run();
 
 DoubleNumberLinkedList.Run();
+
+RelativeRanks.Run();
