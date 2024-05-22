@@ -49,3 +49,5 @@ DoubleNumberLinkedList.Run();
 RelativeRanks.Run();
 
 Subsets.Run();
+
+PalindromePartition.Run();
