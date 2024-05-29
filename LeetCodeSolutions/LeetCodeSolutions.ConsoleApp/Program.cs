@@ -51,3 +51,5 @@ RelativeRanks.Run();
 Subsets.Run();
 
 PalindromePartition.Run();
+
+ReduceBinaryNumber.Run();
