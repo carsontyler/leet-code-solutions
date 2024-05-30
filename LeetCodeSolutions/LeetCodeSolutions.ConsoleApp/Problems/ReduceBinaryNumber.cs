@@ -7,7 +7,7 @@ public class ReduceBinaryNumber
         var result = NumSteps(input);
         var expected = 6;
 
-        Console.WriteLine("Reduce Binary Number: " + (result == expected));
+        Console.WriteLine("Reduce Binary Number Success: " + (result == expected));
     }
 
     private static int NumSteps(string s) {

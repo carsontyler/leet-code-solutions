@@ -16,7 +16,7 @@ public class BinaryTreeRightSide
                 success = false;
         }
 
-        Console.WriteLine("Binary Tree Right Side: " + success);
+        Console.WriteLine("Binary Tree Right Side Success: " + success);
     }
 
     private static IList<int> RightSideView(TreeNode root) {
@@ -46,7 +46,7 @@ public class BinaryTreeRightSide
         return result;
     }
 
-    private class TreeNode {
+    public class TreeNode {
         public int val;
         public TreeNode left;
         public TreeNode right;

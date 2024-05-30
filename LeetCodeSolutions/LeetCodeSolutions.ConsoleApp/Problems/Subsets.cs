@@ -7,7 +7,7 @@ public class Subsets
 
         var result = Subset(input);
 
-        Console.WriteLine("Subsets success: " + (result.Count() == 8));
+        Console.WriteLine("Subsets Success: " + (result.Count() == 8));
     }
 
     private static IList<IList<int>> Subset(int[] nums) {

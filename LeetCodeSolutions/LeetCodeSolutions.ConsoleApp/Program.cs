@@ -55,3 +55,5 @@ PalindromePartition.Run();
 ReduceBinaryNumber.Run();
 
 BinaryTreeRightSide.Run();
+
+BSTMinAbsoluteDiff.Run();
