@@ -53,3 +53,5 @@ Subsets.Run();
 PalindromePartition.Run();
 
 ReduceBinaryNumber.Run();
+
+BinaryTreeRightSide.Run();
