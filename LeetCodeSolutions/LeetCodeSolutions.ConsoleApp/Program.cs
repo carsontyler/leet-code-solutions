@@ -57,3 +57,5 @@ ReduceBinaryNumber.Run();
 BinaryTreeRightSide.Run();
 
 BSTMinAbsoluteDiff.Run();
+
+SingleNumberIII.Run();
